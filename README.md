@@ -16,6 +16,8 @@ To enjoy the convenience of Laravel's query builder in a PHP Lambda function.
 - no Eloquent
 - no Laravel Framework database event handling
 
+** THIS PACKAGE ONLY ACCESSES A DATABASE ON LOCALHOST. REMOTE DB ACCESS IS ON DECK. **
+
 ## Installation
 
 ```BASH
