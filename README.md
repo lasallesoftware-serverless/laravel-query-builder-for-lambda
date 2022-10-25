@@ -12,6 +12,8 @@ This package is not yet Lambda ready.
 
 The Lambda version will likely not use Dotenv; and, will need to access a remote database. This work is forthcoming. 
 
+When this package is Lambda ready, I will tag version one.
+
 ## With Deepest Appreciation
 
 - Excellent video and files: [https://www.youtube.com/watch?v=_mDDERFHSLw](https://www.youtube.com/watch?v=_mDDERFHSLw)
