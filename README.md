@@ -4,6 +4,14 @@ Use the Laravel Framework's Query Builder in AWS Lambda without mounting a Larav
 
 To enjoy the convenience of Laravel's query builder in a PHP Lambda function.
 
+## BASE LAMBDA FEATURES STILL NEED TO BE DONE
+
+I want to access a localhost database on a traditional cloud server using the Laravel Framework, but without mounting it. Knowing that I will be doing a package to achieve this for Lambda, I went ahead and did this package. 
+
+This package is not yet Lambda ready.
+
+The Lambda version will likely not use Dotenv; and, will need to access a remote database. This work is forthcoming. 
+
 ## With Deepest Appreciation
 
 - Excellent video and files: [https://www.youtube.com/watch?v=_mDDERFHSLw](https://www.youtube.com/watch?v=_mDDERFHSLw)
