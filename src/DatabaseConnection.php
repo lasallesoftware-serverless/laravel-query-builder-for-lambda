@@ -69,7 +69,7 @@ class DatabaseConnection
    */
   public function loadDotenv() : void
   {
-    $dotEnv = Dotenv::createMutable(realpath(__DIR__.'/../'));
+    $dotEnv = Dotenv::createMutable(realpath(__DIR__.'/.././../../../'));
     $dotEnv->load();
   }
 }
