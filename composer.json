@@ -1,0 +1,34 @@
+{
+    "name": "lasallesoftware-serverless/laravel-query-builder-for-lambda",
+    "description": "Use the Laravel Framework's Query Builder in AWS Lambda without mounting a Laravel Framework based Application.",
+    "keywords": [
+        "aws",
+        "lambda",
+        "laravel",
+        "database",
+        "lasalle software",
+        "bob bloom"      
+    ],
+    "license": "MIT",
+    "homepage": "https://PHPServerlessProject.com",
+    "support": {
+        "issues": "https://github.com/lasallesoftware-serverless/laravel-query-builder-for-lambda/issues",
+        "source": "https://github.com/lasallesoftware-serverless/laravel-query-builder-for-lambda"
+    },
+    "authors": [
+        {
+            "name": "Bob Bloom",
+            "email": "bob.bloom@lasallesoftware.ca"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2",
+        "vlucas/phpdotenv": "^5.5",
+        "illuminate/database": "^9.36"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lasallesoftwareserverless\\Laravelquerybuilderlambda\\": "src/"
+        }
+    }
+}

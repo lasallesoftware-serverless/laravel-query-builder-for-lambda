@@ -1,0 +1,8 @@
+# A gitignore file specifies intentionally untracked files that Git should ignore
+# https://git-scm.com/docs/gitignore
+
+/vendor
+.DS_Store
+composer.lock
+.env
+.env.example
